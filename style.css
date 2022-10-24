@@ -150,3 +150,7 @@ td, th {
     padding: 8px 15px;
     text-align: center;
 }
+
+.banner {
+    width: 100%;
+}
