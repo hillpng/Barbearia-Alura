@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no decorrer dos módulos 1, 2, 3 e 4 do curso de HTML5 e CSS3 da Alura.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Informações |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura**
 | :label: Tecnologias | HTML5 e CSS3 (tecnologias utilizadas)
@@ -14,4 +14,5 @@ Projeto desenvolvido no decorrer dos módulos 1, 2, 3 e 4 do curso de HTML5 e CS
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+| 🎖️: Conquistas        | Consegui vencer minha própria autosabotagem de que programação não era para mim. 
+| :fire: Desafios     | Meu maior desafio ao fazer esse projeto foi entender como a atribuição de valores à tag margin funcionava, mas no final deu tudo certo e hoje entendo perfeitamente.
