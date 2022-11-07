@@ -12,6 +12,7 @@ Projeto desenvolvido no decorrer dos módulos 1, 2, 3 e 4 do curso de HTML5 e CS
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
+##
 | :placard: Detalhes do projeto |     |
 | -------------  | --- |
 | :rocket: Conquistas        | Consegui vencer minha própria autosabotagem de que programação não era para mim. 
