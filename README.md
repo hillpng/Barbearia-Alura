@@ -13,6 +13,7 @@ Projeto desenvolvido no decorrer dos módulos 1, 2, 3 e 4 do curso de HTML5 e CS
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
-
+| :placard: Detalhes do projeto |     |
+| -------------  | --- |
 | :rocket: Conquistas        | Consegui vencer minha própria autosabotagem de que programação não era para mim. 
 | :fire: Desafios     | Meu maior desafio ao fazer esse projeto foi entender como a atribuição de valores à tag margin funcionava, mas no final deu tudo certo e hoje entendo perfeitamente.
